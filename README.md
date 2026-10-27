@@ -19,7 +19,7 @@ https://shravanidamle1.github.io/bda-project/
 
 ## Run the Notebook in Colab
 
-[!\[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR\_USERNAME/bda-project/blob/main/BDA\_PROJECT\_StudentsPerformance\_Website.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shravanidamle1/bda-project/blob/main/BDA_PROJECT_StudentsPerformance_Website.ipynb)
 
 Run all cells in order. When prompted, upload `StudentsPerformance.csv`.
 
